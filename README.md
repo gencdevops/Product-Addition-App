@@ -9,7 +9,7 @@ npm install
  <br>
 npm run dev
 
-# build for production with minification
+
 <br>
 npm run build
 <br>
