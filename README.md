@@ -1,5 +1,8 @@
 # Product-Addition-App
 <h1>Vuejs product addition application</h1>
+<br>
+
+<p>This app adds photos and products.</p>
 
 #install dependencies 
 <br>
